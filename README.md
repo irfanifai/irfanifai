@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irfanifai
 - 👀 I’m interested in Fullstack Developer
-- 🌱 I’m currently learning Laravael, Vue.js, React and React Native
+- 🌱 I’m currently learning Laravel, Vue.js, React JS and React Native
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me irfanrifai.com
 
